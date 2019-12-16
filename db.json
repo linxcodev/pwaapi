@@ -1,0 +1,85 @@
+{
+  "product": [
+  {
+    "id": 1,
+    "name": "Bushbuck",
+    "category": "Purple"
+  }, {
+    "id": 2,
+    "name": "Wallaby, tammar",
+    "category": "Khaki"
+  }, {
+    "id": 3,
+    "name": "Emu",
+    "category": "Khaki"
+  }, {
+    "id": 4,
+    "name": "Brindled gnu",
+    "category": "Teal"
+  }, {
+    "id": 5,
+    "name": "Mudskipper (unidentified)",
+    "category": "Khaki"
+  }, {
+    "id": 6,
+    "name": "Ringtail",
+    "category": "Violet"
+  }, {
+    "id": 7,
+    "name": "Fox, grey",
+    "category": "Green"
+  }, {
+    "id": 8,
+    "name": "Asian openbill",
+    "category": "Teal"
+  }, {
+    "id": 9,
+    "name": "Snake, racer",
+    "category": "Puce"
+  }, {
+    "id": 10,
+    "name": "Blackbuck",
+    "category": "Orange"
+  }, {
+    "id": 11,
+    "name": "Civet, small-toothed palm",
+    "category": "Blue"
+  }, {
+    "id": 12,
+    "name": "Turaco, violet-crested",
+    "category": "Puce"
+  }, {
+    "id": 13,
+    "name": "Cat, long-tailed spotted",
+    "category": "Yellow"
+  }, {
+    "id": 14,
+    "name": "Lemming, collared",
+    "category": "Violet"
+  }, {
+    "id": 15,
+    "name": "Macaw, scarlet",
+    "category": "Violet"
+  }, {
+    "id": 16,
+    "name": "Gila monster",
+    "category": "Green"
+  }, {
+    "id": 17,
+    "name": "Red-billed hornbill",
+    "category": "Mauv"
+  }, {
+    "id": 18,
+    "name": "Little grebe",
+    "category": "Aquamarine"
+  }, {
+    "id": 19,
+    "name": "Red-cheeked cordon bleu",
+    "category": "Turquoise"
+  }, {
+    "id": 20,
+    "name": "Common boubou shrike",
+    "category": "Turquoise"
+  }
+ ]
+}
